@@ -49,6 +49,10 @@ body::after {
   }
 }
 
+.container > h1 {
+  color: #6d708d;
+}
+
 .container .toggleandtext {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -197,7 +201,7 @@ body::after {
   font-size: 1rem;
 }
 
-.container .cards .card h3:nth-child(5) {
+.container .cards .card h3:nth-child(6) {
   border-bottom: solid 1px #b3b5c6;
 }
 
